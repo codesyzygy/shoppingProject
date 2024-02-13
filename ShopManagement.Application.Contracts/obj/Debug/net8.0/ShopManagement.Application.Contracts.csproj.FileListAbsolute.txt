@@ -1,0 +1,16 @@
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.deps.json
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.dll
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.pdb
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+D:\mysite\BackendShop\Asp.netCoreShoppingProject\ShopManagement.Application.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll

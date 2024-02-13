@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ShopManagement.Domain.ProductCategoryAgg
 {
-    public class ProductCategory :EntityBase
+    public class ProductCategory : EntityBase
     {
 
 
